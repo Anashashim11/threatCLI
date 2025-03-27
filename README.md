@@ -2,8 +2,6 @@
 
 🚀 **ThreatCLI** is an open-source, terminal-based **Threat Intelligence** tool designed to **fetch, enrich, and analyze threat data** from multiple sources. Inspired by tools like **Nmap**, it provides quick and efficient threat lookups directly from the command line.
 
-![ThreatCLI Demo](https://via.placeholder.com/800x400?text=ThreatCLI+Demo)  
-*(Replace with an actual screenshot of your CLI tool in action!)*
 
 ---
 
