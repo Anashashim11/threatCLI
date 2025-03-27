@@ -31,7 +31,7 @@ Make sure MongoDB is running and configured for remote access.
 
 ### 4️⃣ Run ThreatCLI
 ```bash
-python threatcli.py --ip <IP-Address>
+python threatcli.py <IP-Address>
 ```
 
 ---
