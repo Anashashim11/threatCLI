@@ -1,0 +1,7 @@
+requests           # For making API requests to threat intelligence sources
+pymongo           # For interacting with MongoDB
+python-dotenv     # For handling environment variables (API keys, DB credentials)
+shodan            # For fetching threat intelligence from Shodan
+beautifulsoup4    # For parsing HTML if scraping is required
+tabulate          # For displaying tabular data in CLI
+rich             # For colored and formatted CLI output
