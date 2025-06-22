@@ -10,10 +10,10 @@ db = client["threat_intelligence"]
 collection = db["ip_reports"]
 
 # 🔹 API Keys (Ensure these are set up)
-IPINFO_API_KEY = "506a4f404d0dee"
-ABUSEIPDB_API_KEY = "908c66ab2b861a99d27c2b636851af71cba6cd3ad059693f30255b2e260256c8dab2c674188e1785"
-VT_API_KEY = "a41a18260eceb4fb2a83c65228a5f3334adda9f9baecf78c6f72b898a1ca7b2c"
-SHODAN_API_KEY = "Qe2hnu13RxR0DVUsAmvGyZKUDST8cpen"
+IPINFO_API_KEY = "IPINFO_API_KEY"
+ABUSEIPDB_API_KEY = "ABUSEIPDB_API_KEY"
+VT_API_KEY = "VIRUS_TOTAL_API_KEY"
+SHODAN_API_KEY = "SHODAN_API_KEY"
 
 # 🔹 Function to get IP details
 def get_ip_info(ip):
